@@ -1,0 +1,144 @@
+station,month,mean_AQI,median_AQI,max_AQI,valid_days,month_name,category
+Ballygunge,1,204.0,201.0,288.0,31,Jan,Poor
+Ballygunge,2,131.5,129.5,210.0,26,Feb,Moderate
+Ballygunge,3,108.3,105.0,162.0,31,Mar,Moderate
+Ballygunge,4,59.6,61.5,93.0,28,Apr,Satisfactory
+Ballygunge,6,31.0,30.5,39.0,4,Jun,Good
+Ballygunge,7,44.0,42.0,60.0,21,Jul,Good
+Ballygunge,8,50.5,48.0,63.0,13,Aug,Satisfactory
+Ballygunge,9,51.5,48.0,63.0,11,Sep,Satisfactory
+Ballygunge,10,103.1,104.0,166.0,22,Oct,Moderate
+Ballygunge,11,163.5,169.5,248.0,28,Nov,Moderate
+Ballygunge,12,194.7,186.0,308.0,31,Dec,Moderate
+Belur Math,1,174.8,167.0,264.0,31,Jan,Moderate
+Belur Math,2,151.3,150.0,244.0,28,Feb,Moderate
+Belur Math,3,110.4,111.0,156.0,31,Mar,Moderate
+Belur Math,4,71.5,69.0,123.0,28,Apr,Satisfactory
+Belur Math,5,52.7,48.5,87.0,28,May,Satisfactory
+Belur Math,6,51.5,49.0,98.0,30,Jun,Satisfactory
+Belur Math,7,41.7,40.0,54.0,30,Jul,Good
+Belur Math,8,37.2,31.0,78.0,30,Aug,Good
+Belur Math,9,62.4,61.0,103.0,30,Sep,Satisfactory
+Belur Math,10,121.7,119.0,247.0,31,Oct,Moderate
+Belur Math,11,239.3,254.0,340.0,27,Nov,Poor
+Belur Math,12,307.5,322.0,367.0,31,Dec,Very Poor
+Bidhannagar,1,172.9,171.0,280.0,27,Jan,Moderate
+Bidhannagar,2,93.9,94.0,168.0,28,Feb,Satisfactory
+Bidhannagar,3,70.2,67.0,113.0,31,Mar,Satisfactory
+Bidhannagar,4,46.3,47.5,62.0,26,Apr,Good
+Bidhannagar,5,51.2,50.0,78.0,31,May,Satisfactory
+Bidhannagar,6,49.9,43.0,93.0,30,Jun,Good
+Bidhannagar,7,37.8,37.0,52.0,31,Jul,Good
+Bidhannagar,8,33.5,32.0,57.0,31,Aug,Good
+Bidhannagar,9,44.0,42.5,71.0,30,Sep,Good
+Bidhannagar,10,72.8,75.0,159.0,31,Oct,Satisfactory
+Bidhannagar,11,128.6,135.5,204.0,30,Nov,Moderate
+Bidhannagar,12,204.9,204.5,293.0,26,Dec,Poor
+Botanical Garden,1,241.2,237.0,313.0,31,Jan,Poor
+Botanical Garden,2,145.9,151.0,204.0,23,Feb,Moderate
+Botanical Garden,3,106.9,104.0,157.0,30,Mar,Moderate
+Botanical Garden,4,64.2,65.0,90.0,28,Apr,Satisfactory
+Botanical Garden,5,73.5,74.0,88.0,30,May,Satisfactory
+Botanical Garden,6,63.6,59.0,107.0,29,Jun,Satisfactory
+Botanical Garden,7,48.2,46.0,87.0,27,Jul,Good
+Botanical Garden,8,57.9,58.5,71.0,30,Aug,Satisfactory
+Botanical Garden,9,69.7,68.0,85.0,29,Sep,Satisfactory
+Botanical Garden,10,93.1,83.0,172.0,30,Oct,Satisfactory
+Botanical Garden,11,102.5,96.0,186.0,29,Nov,Moderate
+Botanical Garden,12,147.6,143.5,216.0,30,Dec,Moderate
+Dasnagar,1,246.5,253.0,309.0,29,Jan,Poor
+Dasnagar,2,155.2,161.0,230.0,25,Feb,Moderate
+Dasnagar,3,129.6,132.5,183.0,30,Mar,Moderate
+Dasnagar,4,89.1,82.0,156.0,29,Apr,Satisfactory
+Dasnagar,5,91.7,77.5,141.0,30,May,Satisfactory
+Dasnagar,6,88.8,80.0,135.0,27,Jun,Satisfactory
+Dasnagar,7,66.2,66.0,90.0,29,Jul,Satisfactory
+Dasnagar,8,39.7,34.5,67.0,30,Aug,Good
+Dasnagar,9,53.6,56.0,81.0,29,Sep,Satisfactory
+Dasnagar,10,85.3,84.0,146.0,30,Oct,Satisfactory
+Dasnagar,11,149.6,150.0,257.0,29,Nov,Moderate
+Dasnagar,12,163.5,161.0,246.0,26,Dec,Moderate
+Fort William,1,180.6,182.0,255.0,29,Jan,Moderate
+Fort William,2,116.8,116.0,174.0,24,Feb,Moderate
+Fort William,3,96.5,94.0,136.0,19,Mar,Satisfactory
+Fort William,4,58.8,58.0,68.0,16,Apr,Satisfactory
+Fort William,5,55.1,51.5,84.0,22,May,Satisfactory
+Fort William,6,76.2,73.5,95.0,4,Jun,Satisfactory
+Fort William,7,38.7,44.0,44.0,3,Jul,Good
+Fort William,8,40.7,33.0,136.0,16,Aug,Good
+Fort William,9,52.4,51.0,100.0,22,Sep,Satisfactory
+Fort William,10,83.0,87.5,150.0,28,Oct,Satisfactory
+Fort William,11,186.5,196.0,285.0,28,Nov,Moderate
+Fort William,12,181.6,149.0,300.0,28,Dec,Moderate
+Ghusuri,1,276.0,279.5,331.0,26,Jan,Poor
+Ghusuri,2,165.8,169.0,258.0,22,Feb,Moderate
+Ghusuri,3,116.8,115.0,190.0,29,Mar,Moderate
+Ghusuri,4,77.8,77.0,130.0,27,Apr,Satisfactory
+Ghusuri,5,62.8,59.0,136.0,31,May,Satisfactory
+Ghusuri,6,54.3,52.0,101.0,29,Jun,Satisfactory
+Ghusuri,7,38.6,40.0,49.0,29,Jul,Good
+Ghusuri,8,55.7,56.0,86.0,19,Aug,Satisfactory
+Ghusuri,9,84.6,74.0,233.0,25,Sep,Satisfactory
+Ghusuri,10,104.9,98.0,219.0,26,Oct,Moderate
+Ghusuri,11,180.0,195.0,318.0,30,Nov,Moderate
+Ghusuri,12,269.1,291.0,386.0,31,Dec,Poor
+Jadavpur,1,164.6,153.0,241.0,31,Jan,Moderate
+Jadavpur,2,133.8,139.5,188.0,28,Feb,Moderate
+Jadavpur,3,105.8,105.5,189.0,30,Mar,Moderate
+Jadavpur,4,76.9,76.5,109.0,30,Apr,Satisfactory
+Jadavpur,5,70.4,68.5,110.0,30,May,Satisfactory
+Jadavpur,6,71.6,61.0,128.0,30,Jun,Satisfactory
+Jadavpur,7,55.3,50.5,87.0,30,Jul,Satisfactory
+Jadavpur,8,74.6,67.0,139.0,29,Aug,Satisfactory
+Jadavpur,9,73.5,60.0,200.0,30,Sep,Satisfactory
+Jadavpur,10,126.4,107.0,244.0,31,Oct,Moderate
+Jadavpur,11,245.5,258.5,318.0,30,Nov,Poor
+Jadavpur,12,256.4,259.0,328.0,31,Dec,Poor
+Padmapukur,1,285.3,287.0,354.0,29,Jan,Poor
+Padmapukur,2,202.3,222.0,300.0,23,Feb,Poor
+Padmapukur,3,123.3,118.0,201.0,31,Mar,Moderate
+Padmapukur,4,68.3,67.0,112.0,29,Apr,Satisfactory
+Padmapukur,5,62.2,58.0,92.0,31,May,Satisfactory
+Padmapukur,6,73.4,65.5,118.0,30,Jun,Satisfactory
+Padmapukur,7,72.9,74.0,126.0,30,Jul,Satisfactory
+Padmapukur,8,52.2,51.0,71.0,31,Aug,Satisfactory
+Padmapukur,9,59.3,57.5,85.0,30,Sep,Satisfactory
+Padmapukur,10,115.5,97.0,239.0,31,Oct,Moderate
+Padmapukur,11,227.8,252.5,330.0,20,Nov,Poor
+Padmapukur,12,233.3,235.5,319.0,26,Dec,Poor
+Rabindra Bharati Univ.,1,175.3,172.0,269.0,27,Jan,Moderate
+Rabindra Bharati Univ.,2,119.1,123.0,156.0,27,Feb,Moderate
+Rabindra Bharati Univ.,3,92.3,96.0,142.0,31,Mar,Satisfactory
+Rabindra Bharati Univ.,4,63.8,57.0,170.0,30,Apr,Satisfactory
+Rabindra Bharati Univ.,5,46.0,43.0,81.0,30,May,Good
+Rabindra Bharati Univ.,6,47.9,48.0,75.0,30,Jun,Good
+Rabindra Bharati Univ.,7,66.8,69.0,112.0,31,Jul,Satisfactory
+Rabindra Bharati Univ.,8,76.2,75.0,100.0,31,Aug,Satisfactory
+Rabindra Bharati Univ.,9,63.0,45.0,210.0,29,Sep,Satisfactory
+Rabindra Bharati Univ.,10,115.1,94.0,268.0,27,Oct,Moderate
+Rabindra Bharati Univ.,11,130.3,140.0,206.0,28,Nov,Moderate
+Rabindra Bharati Univ.,12,170.2,158.0,250.0,31,Dec,Moderate
+Rabindra Sarobar,1,129.7,119.5,214.0,30,Jan,Moderate
+Rabindra Sarobar,2,90.7,93.0,140.0,26,Feb,Satisfactory
+Rabindra Sarobar,3,78.6,75.0,130.0,31,Mar,Satisfactory
+Rabindra Sarobar,4,59.5,58.0,92.0,30,Apr,Satisfactory
+Rabindra Sarobar,5,58.5,56.0,88.0,31,May,Satisfactory
+Rabindra Sarobar,6,46.3,47.5,66.0,30,Jun,Good
+Rabindra Sarobar,7,31.7,31.0,45.0,31,Jul,Good
+Rabindra Sarobar,8,36.2,33.0,52.0,25,Aug,Good
+Rabindra Sarobar,9,41.9,38.5,73.0,30,Sep,Good
+Rabindra Sarobar,10,74.7,71.5,143.0,30,Oct,Satisfactory
+Rabindra Sarobar,11,128.4,137.5,187.0,30,Nov,Moderate
+Rabindra Sarobar,12,131.9,119.0,235.0,31,Dec,Moderate
+Victoria,1,178.2,169.0,290.0,31,Jan,Moderate
+Victoria,2,128.8,136.5,187.0,28,Feb,Moderate
+Victoria,3,107.5,104.0,186.0,31,Mar,Moderate
+Victoria,4,70.6,72.0,104.0,29,Apr,Satisfactory
+Victoria,5,57.4,61.0,90.0,29,May,Satisfactory
+Victoria,6,53.2,50.5,84.0,26,Jun,Satisfactory
+Victoria,7,45.0,46.0,57.0,29,Jul,Good
+Victoria,8,50.0,50.0,76.0,23,Aug,Good
+Victoria,9,57.6,56.0,81.0,28,Sep,Satisfactory
+Victoria,10,115.4,116.0,234.0,27,Oct,Moderate
+Victoria,11,235.4,248.0,336.0,29,Nov,Poor
+Victoria,12,282.0,298.0,360.0,28,Dec,Poor

@@ -1,0 +1,13 @@
+no,site_id,station,city,lat,lon,setting,annual_mean_season_balanced,Winter,Summer,Monsoon,Post-monsoon
+1,5238,Ballygunge,Kolkata,22.5367507,88.3638022,"Residential-commercial, traffic (south-central)",111.9,179.3,85.2,46.3,136.9
+2,5129,Bidhannagar,Kolkata,22.58157048,88.41002457,Planned township (Salt Lake),88.4,155.8,56.4,41.2,100.2
+3,5110,Fort William,Kolkata,22.55664,88.342674,Maidan open space / cantonment,104.0,162.0,70.0,49.4,134.8
+4,5111,Jadavpur,Kolkata,22.49929,88.36917,"Residential-commercial, high traffic (south Kolkata)",131.2,186.6,84.4,68.7,184.9
+5,296,Rabindra Bharati Univ.,Kolkata,22.627847,88.380669,Institutional / B.T. Road traffic corridor (north),102.4,155.6,67.6,63.6,122.8
+6,5126,Rabindra Sarobar,Kolkata,22.51106,88.35142,Urban lake & park,81.2,118.8,65.6,39.1,101.5
+7,309,Victoria,Kolkata,22.5448082,88.3403691,Urban green / central business (Victoria Memorial),126.0,195.7,79.2,51.4,177.5
+8,5101,Belur Math,Howrah,22.629801,88.352017,Mixed riverside / residential (Hooghly bank),129.3,213.2,79.3,48.2,176.5
+9,5989,Botanical Garden,Howrah,22.554954,88.292568,"Green space (AJC Bose Botanic Garden, Shibpur)",105.4,181.7,82.0,60.0,97.7
+10,6009,Dasnagar,Howrah,22.6025571,88.3105664,"Industrial-residential (Dasnagar, Howrah)",118.2,191.0,103.7,61.4,116.9
+11,274,Ghusuri,Howrah,22.611968,88.347422,"Industrial / riverside (G.T. Road, Hooghly bank)",132.6,242.6,85.4,57.5,145.1
+12,1416,Padmapukur,Howrah,22.5687319,88.2797276,"Residential-industrial (Howrah, near NH-16/Kona Expressway)",138.1,243.5,85.0,64.3,159.5

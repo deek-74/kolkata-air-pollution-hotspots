@@ -1,0 +1,13 @@
+station,site_id,city,annual_mean,annual_median,annual_max,valid_days,Winter,Summer,Monsoon,Post-monsoon,days_Good,days_Satisfactory,days_Moderate,days_Poor,days_Very Poor,days_Severe,annual_mean_season_balanced,exceed_days_>100,category_annual
+Padmapukur,1416,Howrah,125.1,81.0,354.0,341,243.5,85.0,64.3,159.5,43,158,57,70,13,0,138.1,140,Moderate
+Ghusuri,274,Howrah,125.3,92.0,386.0,324,242.6,85.4,57.5,145.1,72,104,78,46,24,0,132.6,148,Moderate
+Jadavpur,5111,Kolkata,121.8,91.0,328.0,360,186.6,84.4,68.7,184.9,44,156,96,57,7,0,131.2,160,Moderate
+Belur Math,5101,Howrah,118.6,82.0,367.0,355,213.2,79.3,48.2,176.5,95,108,84,41,27,0,129.3,152,Moderate
+Victoria,309,Kolkata,116.8,79.5,360.0,338,195.7,79.2,51.4,177.5,75,118,91,38,16,0,126.0,145,Moderate
+Dasnagar,6009,Howrah,112.1,94.0,309.0,343,191.0,103.7,61.4,116.9,48,137,116,41,1,0,118.2,158,Moderate
+Ballygunge,5238,Kolkata,121.6,109.5,308.0,246,179.3,85.2,46.3,136.9,40,73,97,35,1,0,111.9,133,Moderate
+Botanical Garden,5989,Howrah,101.6,80.5,313.0,346,181.7,82.0,60.0,97.7,44,186,85,29,2,0,105.4,116,Moderate
+Fort William,5110,Kolkata,112.5,97.0,300.0,239,162.0,70.0,49.4,134.8,46,82,79,32,0,0,104.0,111,Moderate
+Rabindra Bharati Univ.,296,Kolkata,96.1,80.0,269.0,352,155.6,67.6,63.6,122.8,84,135,110,23,0,0,102.4,133,Satisfactory
+Bidhannagar,5129,Kolkata,81.6,56.0,293.0,352,155.8,56.4,41.2,100.2,151,108,69,24,0,0,88.4,93,Satisfactory
+Rabindra Sarobar,5126,Kolkata,76.0,63.0,235.0,355,118.8,65.6,39.1,101.5,125,130,96,4,0,0,81.2,100,Satisfactory

@@ -1,0 +1,7 @@
+_extract/
+*.tif
+*.tiff
+*.zip
+*.aux.xml
+.ipynb_checkpoints/
+__pycache__/
